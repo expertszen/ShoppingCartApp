@@ -1,0 +1,1 @@
+1.	Provide all the screenshots of step-by-step execution of the Test cases and Test Results under the folder: output_screenshots
